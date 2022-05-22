@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalKayıtProjesiTasarımEkranı", "PersonalKayıtProjesiTasarımEkranı\PersonalKayıtProjesiTasarımEkranı.csproj", "{AC5135E5-0C6D-4EBF-B077-22FAC40D41EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC5135E5-0C6D-4EBF-B077-22FAC40D41EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5135E5-0C6D-4EBF-B077-22FAC40D41EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5135E5-0C6D-4EBF-B077-22FAC40D41EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5135E5-0C6D-4EBF-B077-22FAC40D41EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F4D77EB-86D9-4D63-98FE-10CFE14736F1}
+	EndGlobalSection
+EndGlobal
